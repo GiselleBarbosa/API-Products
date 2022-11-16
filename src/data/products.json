@@ -1,0 +1,17 @@
+[
+	{
+		"id": 1,
+		"name": "Smartphone Asus Rog 6",
+		"price": 5999.99
+	},
+	{
+		"id": 2,
+		"name": "Smartphone Samsung Galaxy S22",
+		"price": 4000
+	},
+	{
+		"id": 3,
+		"name": "Iphone 14",
+		"price": 8999.99
+	}
+]
